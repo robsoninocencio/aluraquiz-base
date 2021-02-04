@@ -1,6 +1,6 @@
 {
   "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
-  "title": "Quiz JavaScript #AluraQuiz",
+  "title": "Quiz React #AluraQuiz",
   "description": "Um quiz rápido sobre o mundo do JavaScript",
   "questions": [
     {
@@ -36,14 +36,11 @@
       "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
       "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
       "answer": 1,
-      "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
-      ]
+      "alternatives": ["JSONHttpRequest", "XMLHttpRequest", "fetch"]
     }
   ],
   "external": [
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
     "https://aluraquiz-css.omariosouto.vercel.app/",
     "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
